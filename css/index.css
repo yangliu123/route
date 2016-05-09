@@ -1,0 +1,26 @@
+#content{
+    border:5px solid blue;
+    overflow: hidden;
+}
+#leftpanel{
+    background-color: lightblue;
+    width: 300px;
+    float: left;
+    padding-bottom: 3000px;
+    margin-bottom: -3000px;
+}
+#right{padding-left: 300px;}
+#rightpanel{
+    padding-bottom: 3000px;
+    margin-bottom: -3000px;
+}
+.date{
+    font-size: 12px;
+    color:#999;
+}
+.content{
+    background-color: lightyellow;
+}
+#container{
+    margin: 10px;
+}
